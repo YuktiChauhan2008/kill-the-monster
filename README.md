@@ -1,2 +1,2 @@
-# kill-the-monster
-class project 34
+# Kill-the-monster
+Kill the monster
